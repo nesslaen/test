@@ -1,8 +1,9 @@
 body{
-	background-color: green;
+	background-color: yellow;
 }
 
 body p{
-	color: blue;
-	font-size: 25px;
+	color: red;
+	font-size: 30px;
 }
+
